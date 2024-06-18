@@ -7,11 +7,6 @@
     "logo": "https://graph.org/file/9a2e99d95903e6b8f9fb9.jpg",
     "stack": "container",
     "env": {
-        "ALIVE_NAME": {
-            "description": "ضع اسـم حسابـك على التليجـرام",
-            "required": true
-            "value":""
-        },
         "STRING_SESSION": {
             "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك أو مـن بــوت〔 FJDBot@ 〕..",
             "required": true
