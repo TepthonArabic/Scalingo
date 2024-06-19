@@ -1,5 +1,5 @@
-git clone https://github.com/TepthonSource/Repo zxaax
-cd zxaax
+git clone https://github.com/TepthonSource/Repo tep
+cd tep
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m Tepthon
