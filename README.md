@@ -1,3 +1,2 @@
-##  🔗 Deploy Tepthon Source On Scalingo :
-This Code Based By [Tepthon](https://t.me/Tepthon)
-#زلزال
+##  🔗 Deploy ZThon Source On Scalingo :
+This Code Based By [ZThon](https://t.me/ZThon)

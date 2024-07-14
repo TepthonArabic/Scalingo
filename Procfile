@@ -1,1 +1,1 @@
-web: bash zxaax
+web: gunicorn app:app --daemon && bash tep

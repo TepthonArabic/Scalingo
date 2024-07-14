@@ -2,21 +2,16 @@
     "name": "سـورس تيبثـون العربي - 𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗲𝗽𝘁𝗵𝗼𝗻 𝗔𝗿𝗮𝗯𝗶𝗰",
     "description": "لـ تنصـيـب سـورس تيبثـون العربـي على سكالينجو مجانًا",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["tepthon", "ai","scalingo"],
-    "repository": "https://github.com/TepthonArabic/Scalingo",
+    "keywords": ["telegram","arabic","scalingo"],
+    "repository": "https://github.com/RRYR7/scalingo-deploy",
     "logo": "https://graph.org/file/9a2e99d95903e6b8f9fb9.jpg",
     "stack": "container",
     "env": {
         "STRING_SESSION": {
-            "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك أو مـن بــوت〔 FJDBot@ 〕..",
+            "description": "كـود السيشــن - استخـرج جلسـة بايروجـرام من هـذا البوت 《 @FJDBot》,"
             "required": true
-            },
-        "ALIVE_NAME": {
-            "description": "ضع اسـم حسابك على تليجـرام",
-            "required": true,
-            "value":""
         },
-        "TG_BOT_TOKEN": {
+        "APP_TOKEN": {
             "description": "توكـن البوت المساعــد - احصـل عليـه من بوت فـاذر @BotFather",
             "required": true,
             "value":""
